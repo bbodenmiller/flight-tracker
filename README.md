@@ -22,3 +22,9 @@ in xml: http://www.flightstats.com/go/FlightTracker/flightTrackerUpdate.do?id=29
 no terms preventing automated access :)
 http://www.helloflight.com/flight.cfm?flight=ke233
 http://www.helloflight.com/airports/sea.cfm
+
+### FlightRadar24
+
+http://www.flightradar24.com/
+
+Appears to be no API and terms ban reproducing data
